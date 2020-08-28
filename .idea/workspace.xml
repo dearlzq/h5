@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e47bd9f-81bf-46e9-b04d-2dc6e75634f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/csst9402.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/csst9402.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwche.html" beforeDir="false" afterPath="$PROJECT_DIR$/gwche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cpms1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/cpms1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ddan1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ddan1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ewma-tu.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ewma-tu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gwsp1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gwsp1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gwsp2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gwsp2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tx1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tx1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wdlw1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wdlw1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wode1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wode1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wode.html" beforeDir="false" afterPath="$PROJECT_DIR$/wode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/产品秒杀.html" beforeDir="false" afterPath="$PROJECT_DIR$/产品秒杀.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/产品详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/修改手机号.html" beforeDir="false" afterPath="$PROJECT_DIR$/修改手机号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/修改登录密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/修改登录密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/充值申请.html" beforeDir="false" afterPath="$PROJECT_DIR$/充值申请.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/分店订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/分店订单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/发起代付.html" beforeDir="false" afterPath="$PROJECT_DIR$/发起代付.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/地址管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/地址管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/地址管理2.html" beforeDir="false" afterPath="$PROJECT_DIR$/地址管理2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实名认证.html" beforeDir="false" afterPath="$PROJECT_DIR$/实名认证.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已收藏商品.html" beforeDir="false" afterPath="$PROJECT_DIR$/已收藏商品.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已收藏商品2.html" beforeDir="false" afterPath="$PROJECT_DIR$/已收藏商品2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/忘记密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/忘记密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的二维码.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的二维码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的分店.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的分店.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的分店2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的分店2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的寄卖.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的寄卖.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的礼物.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的礼物.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的礼物2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的礼物2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的积分.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的积分.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的补贴.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的补贴.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的订单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的赠送.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的赠送.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的赠送2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的赠送2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的金币.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的金币.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的钱包.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的钱包.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/户外运动.html" beforeDir="false" afterPath="$PROJECT_DIR$/户外运动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新增银行卡.html" beforeDir="false" afterPath="$PROJECT_DIR$/新增银行卡.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/易抢购.html" beforeDir="false" afterPath="$PROJECT_DIR$/易抢购.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/注册.html" beforeDir="false" afterPath="$PROJECT_DIR$/reg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息2.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/添加新地址.html" beforeDir="false" afterPath="$PROJECT_DIR$/添加新地址.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/积分明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/积分明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/结算中心.html" beforeDir="false" afterPath="$PROJECT_DIR$/结算中心.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/订单详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/订单详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置支付密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置支付密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置昵称.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置昵称.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/账单详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/账单详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/转至余额.html" beforeDir="false" afterPath="$PROJECT_DIR$/转至余额.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/金币明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/金币明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/银行卡管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/银行卡管理.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gV2BHtUCyWrnhU2rwEGTmo8yYL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e47bd9f-81bf-46e9-b04d-2dc6e75634f1" name="Default Changelist" comment="" />
+      <created>1598185301394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598185301394</updated>
+      <workItem from="1598185303113" duration="12510000" />
+      <workItem from="1598314152348" duration="4197000" />
+      <workItem from="1598440569364" duration="12963000" />
+      <workItem from="1598571512932" duration="5271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
